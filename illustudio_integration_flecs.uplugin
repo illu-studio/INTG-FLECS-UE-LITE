@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "[ ILLU STUDIO ]-[ INTEGRATION - FLECS - LITE ]",
+	"Description": "an example integration of [ flecs v.3.2.latest ] which enables multithreading operations with high performance",
+	"Category": "ILLU STUDIO",
+	"CreatedBy": "Illu Studio",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "intg_flecs_core",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "intg_flecs_impl",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
