@@ -7,4 +7,5 @@ This plugin set-up for those who want to make use of FLECS more modular than a U
 made by illu-studio ( ShinGou : contact link : https://discord.gg/wkh4h4H
 
 If you are having hard time understanding naming convention of our studio please look here 
-https://docs.google.com/presentation/d/1VLg6ef1wBYXTNfULe3tZoWK4xVTIlF2ZRK-uM5uRIC4/edit?usp=sharing
+https://docs.google.com/presentation/d/e/2PACX-1vTNReIzaf83chcADvKEADan7sfJV9v5uHi48dD74Oq37wG1HerG6aSpjEMIrO-nUbcIG7RLw2FWG46e/pub?start=false&loop=false&delayms=3000
+
