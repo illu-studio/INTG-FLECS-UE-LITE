@@ -1,5 +1,5 @@
 # INTG-FLECS-UE-LITE
-a lite version of integration of flecs. contains basic class which you could use to build-up your own plugin module or a game module.
+a lite version of integration of flecs ( LATEST V3.2.x ). contains basic class which you could use to build-up your own plugin module or a game module.
  
  
 NOTE: base classes of FLECS components will be added in coming weeks; 
